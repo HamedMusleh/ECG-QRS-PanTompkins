@@ -49,3 +49,19 @@ The algorithm is implemented step-by-step to illustrate the signal processing pi
 ---
 
 ## 📂 Project Structure
+pan_tompkins.py # Main implementation of the algorithm
+ecg_processing.py # Helper functions for signal preprocessing
+test_on_mitbih.py # Script for running tests on MIT-BIH ECG dataset
+results/ # Plots and figures of detected QRS complexes
+
+---
+
+## 📝 References
+- Pan, J., & Tompkins, W. J. (1985). *A Real-Time QRS Detection Algorithm*.  
+- MIT-BIH Arrhythmia Database.  
+
+---
+
+👨‍💻 **Author(s):** Hamed Musleh  
+📅 **Date:** 2025
+
